@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### hello world 👋
+I'm a Student of The University of Electro-Communication
 <!--
 **takuhoTech/takuhoTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
