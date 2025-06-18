@@ -1,5 +1,22 @@
 ### hello world 👋
-I'm a Student of The University of Electro-Communication
+
+私は電気通信大学の学生です。
+
+KiCadのプラグインやライブラリ管理ツールを開発しています。
+
+U.E.C.wingsで人力飛行機の電装を担当しています。
+
+主にGNSSの受信機を開発しています。
+
+
+I'm a Student of The University of Electro-Communication.
+
+I am developing KiCad plugins and library management tools.
+
+I am working on the avionics for a human-powered aircraft at U.E.C.wings.
+
+I am mainly developing GNSS receivers.
+
 <!--
 **takuhoTech/takuhoTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
