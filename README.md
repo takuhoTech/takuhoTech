@@ -2,6 +2,6 @@
 
 野生のGPS/GNSS屋さん
 
-KiCadのプラグインとかUnityのツールとかつくる
+基板設計とかKiCadのプラグインとかUnityのツールとか
 
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,arduino,c,cpp,py,raspberrypi,unity,notion,discord,twitter)](https://skillicons.dev)
