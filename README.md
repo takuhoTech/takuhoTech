@@ -9,7 +9,7 @@
 - 🛰 GPS/GNSS Receiver
 - 📏 PCB Design
 - ⚒ Kicad Plugin
-- 🧰 Unity Tool
 - 🛩 Avionics for Human Powered Aircraft
+- 🧰 Unity Tool
 
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,arduino,c,cpp,py,raspberrypi,unity,notion,discord,twitter)](https://skillicons.dev)
