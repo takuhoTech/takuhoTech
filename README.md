@@ -4,4 +4,4 @@
 
 KiCadのプラグインとかUnityのツールとかつくる
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,c,cpp,discord,github,notion,py,twitter,unity,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,arduino,c,cpp,py,unity,notion,discord,twitter)](https://skillicons.dev)
