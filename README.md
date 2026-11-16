@@ -1,7 +1,14 @@
-### HELLO WORLD 👋
+# Hi there! 👋 I'm 匠歩, a VRChatter.
 
-野生のGPS/GNSS屋さん
+ただかわいい存在になりたい
 
-基板設計とかKiCadのプラグインとかUnityのツールとか
+## About Me
+野生の基板設計屋さん
+
+## Skills
+- 🛰 GPS/GNSS Receiver
+- 📏 PCB Design
+- ⚒ Kicad Plugin
+- 🧰 Unity Tool
 
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,arduino,c,cpp,py,raspberrypi,unity,notion,discord,twitter)](https://skillicons.dev)
